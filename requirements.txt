@@ -1,0 +1,16 @@
+langchain
+langchain-openai
+langchain-community
+langchain-neo4j
+neo4j
+openai
+python-dotenv
+pandas
+requests
+beautifulsoup4
+pypdf
+fastapi
+uvicorn
+streamlit
+pydantic
+nemoguardrails

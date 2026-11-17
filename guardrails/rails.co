@@ -1,0 +1,9 @@
+
+define flow check_off_topic
+  user ...
+  $allowed = execute is_scheme_question(question=$last_user_message)
+  if not $allowed
+    bot "I can help only with Tamil Nadu Government Agriculture, Farmers Welfare and MSME schemes. Please ask a related question."
+    stop
+
+

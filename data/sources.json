@@ -1,0 +1,45 @@
+
+[
+  {
+    "source_id": "TN_GOV_001",
+    "department": "Government",
+    "url": "https://www.tn.gov.in/scheme_list.php?dep_id=Mg%3D%3D",
+    "language": "English",
+    "type": "HTML"
+  },
+  {
+    "source_id": "AGRI_001",
+    "department": "Agriculture and Farmers Welfare",
+    "url": "https://www.tnagrisnet.tn.gov.in/home/schemes/",
+    "language": "English and Tamil",
+    "type": "HTML"
+  },
+  {
+    "source_id": "HORTI_001",
+    "department": "Horticulture",
+    "url": "https://www.tnhorticulture.tn.gov.in/scheme-gos",
+    "language": "English",
+    "type": "HTML"
+  },
+  {
+    "source_id": "MSME_001",
+    "department": "MSME",
+    "url": "https://msmeonline.tn.gov.in/pdf/RTI_ENGLISH_%20UPDATION_PDF_REG.pdf",
+    "language": "English",
+    "type": "PDF"
+  },
+  {
+    "source_id": "MSME_002",
+    "department": "MSME",
+    "url": "https://www.msmeonline.tn.gov.in/incentives/pdf/GO37.pdf",
+    "language": "English",
+    "type": "PDF"
+  },
+  {
+    "source_id": "MSME_003",
+    "department": "MSME",
+    "url": "https://msmeonline.tn.gov.in/",
+    "language": "English",
+    "type": "HTML"
+  }
+]
